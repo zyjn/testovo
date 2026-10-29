@@ -1,0 +1,8 @@
+{
+  "name": "Remix Interactive Annual Report",
+  "description": "Interactive 2026 Annual Impact Report for The I PuriFy project, showcasing IPF incidence data, mortality worldwide, and qualitative stories with how The I PuriFy project which could predict the individual incidence would be able to change the patient\u0027s life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
